@@ -47,7 +47,7 @@ This map demonstrates the following skills:
 
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/clockboard.jpg)](https://c-voulgaris.github.io/portfolio_examples/fullsize/clockboard.pdf){target="_blank"}
+[![](thumbnails/cambridge_iso.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_iso.pdf){target="_blank"}
 
 # Maps of San Luis Obispo
 Here are two maps of San Luis Obispo, California. I might include some text here as well.
@@ -58,7 +58,7 @@ This map shows isochrones based on transit travel times to the nearest school. I
 * Displaying multiple vector layers on the same map
 * Calculating and displaying accessibility, based on travel time
 
-[![](thumbnails/SLO_isochrone.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/SLO_schools.pdf){target="_blank"}
+
 
 ## Accessibility
 This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
@@ -67,4 +67,3 @@ This map shows accessibility based on a distance-decay function of the walking t
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 
-[![](thumbnails/SLO_raster.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/SLO_transit.pdf){target="_blank"}
