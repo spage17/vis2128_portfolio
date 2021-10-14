@@ -29,6 +29,8 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Georeferencing a raster image
 * Displaying data on an interactive map
 
+[![](thumbnails/georeference.png)](https://spage17.github.io/vis2128_portfolio/fullsize/georeference.html){target="_blank"}
+
 # Maps of Boston
 Here are two maps of Boston. I might include some text here about this set of maps.
 
@@ -37,7 +39,8 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"}
+[![](thumbnails/georeference.png)](https://spage17.github.io/vis2128_portfolio/fullsize/georeference.html){target="_blank"}
+
 
 ## Clockboard Map
 This map demonstrates the following skills:
