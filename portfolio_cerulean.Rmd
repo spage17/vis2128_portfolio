@@ -39,7 +39,7 @@ This map demonstrates the following skills:
 * Displaying raster data on a map
 * Georeferencing a raster image
 
-[![](thumbnails/georeference.png)](https://spage17.github.io/vis2128_portfolio/fullsize/georeference.html){target="_blank"}
+[![](thumbnails/georeference.png)](https://spage17.github.io/vis2128_portfolio/fullsize/georeference.pdf){target="_blank"}
 
 
 ## Spatial Relationships
@@ -52,9 +52,9 @@ These maps demonstrate the following skills:
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/chicago2.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago2.html){target="_blank"}
+[![](thumbnails/chicago2.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago2.pdf){target="_blank"}
 
-[![](thumbnails/chicago1.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago1.html){target="_blank"}
+[![](thumbnails/chicago1.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago1.pdf){target="_blank"}
 
 
 # Cambridge
@@ -70,11 +70,11 @@ These maps demonstrates the following skills:
 * Converting between raster layers and vector layers
 * Displaying raster data on a map
 
-[![](thumbnails/cambridge_iso.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_iso.html){target="_blank"}
+[![](thumbnails/cambridge_iso.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_iso.pdf){target="_blank"}
 
-[![](thumbnails/accessibility_raster.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/access_raster_b.html){target="_blank"}
+[![](thumbnails/access_raster.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/access_raster_b.pdf){target="_blank"}
 
-[![](thumbnails/cambridge_access_points.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_access_points.html){target="_blank"}
+[![](thumbnails/cambridge_access_points.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_access_points.pdf){target="_blank"}
 
 ## Interactive Map
 
