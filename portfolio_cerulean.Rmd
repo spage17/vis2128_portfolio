@@ -84,4 +84,4 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/interactive.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/interacive_map.html){target="_blank"}
+[![](thumbnails/interactive.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/interactive_map.html){target="_blank"}
