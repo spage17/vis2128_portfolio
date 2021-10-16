@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This portfolio demonstrates the key skills I have developed over the course of the VIS 2128 Spatial Analysis module. 
 
-Through this course I have learned how to seek out and use data to explore questions and try to devise answers about cities throughout the United States. For the purposes of this portfolio, I am focusing on maps of Chicago, Illinois, and Cambridge, Massachusetts, and its surrounding counties. I am hopeful that I will continue to build on these skills as my research interests in the MUP program further come into focus. 
+Through this course I have learned how to seek out and use data to explore questions and try to devise answers about cities throughout the United States. For the purposes of this portfolio, I am focusing on maps of Chicago, Illinois, and Cambridge, Massachusetts, and its surrounding counties. I hope to build on these skills as my research interests continue to come into focus. 
 
 
 Thank you to Prof. Carole Voulgaris and TAs Emma Colley, Jonathan Lee, and Megan Willis-Jackson for their support in this module.  
@@ -38,7 +38,7 @@ This map demonstrates the following skills:
 
 ## Spatial Relationships
 
-These maps explore the spread of transit stops throughout Chicago, quantifying the relationship between transit stops and neighborhoods, as delineated by formal boundaries, as well as the relationship between transit stops and Enterprise Zones, a designation made by a citywide program that aims to stimulate economic and neighborhood growth in six economically depressed areas throughout Chicago. The first map shows a concentration of transit stops around the city center, the same part of the city where Grant Park is located. The second map illustrates the proportion of transit stops within 1000 meters, about a 10 minute walk, of an Enterprise Zone. The third map builds upon this by illustrating that 5 of the city's 6 Enterprise Zones contain a transit stop. This analysis could be useful as the city considers where to invest in more transit development to aid in certain areas' economic growth. 
+These maps explore the spread of transit stops in relation to two polygon layers: neighborhood boundaries, and Enterprise Zones, a designation made by a citywide program that aims to stimulate economic and neighborhood growth in six economically depressed areas throughout Chicago. 
 
 These maps demonstrate the following skills: 
 
@@ -46,9 +46,16 @@ These maps demonstrate the following skills:
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
 
+
+The first map shows a concentration of transit stops around the city center, the same part of the city where Grant Park is located.
+
 [![](thumbnails/chicago2.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago2.pdf){target="_blank"}
 
+This second map illustrates the proportion of transit stops within 1000 meters, about a 10 minute walk, of an Enterprise Zone.
+
 [![](thumbnails/chicago1.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago1.pdf){target="_blank"}
+
+This third map builds upon this by illustrating that 5 of the city's 6 Enterprise Zones contain a transit stop. This analysis could be useful as the city considers where to invest in more transit development to aid in certain areas' economic growth. 
 
 [![](thumbnails/chicago3.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago3.pdf){target="_blank"}
 
@@ -58,7 +65,7 @@ Through these maps of Cambridge, MA, I learned more about my new surroundings, n
 
 ## Accessibility
 
-These maps illustrate the accessibility of public schools in Cambridge by walking. The first map uses isochrones to show walking times to the nearest public school in 10-, 20-, and 30-minute blocks of time. The second map uses black and white raster data to illustrate accessibility, displaying a score assigned by the r5r package. The third map is a version of the raster map converted back to a vector layer, using colored points to illustrate the same accessibility score. 
+These maps illustrate the accessibility of public schools in Cambridge by walking. 
 
 These maps demonstrates the following skills:
 
@@ -66,11 +73,19 @@ These maps demonstrates the following skills:
 * Displaying raster data on a map
 * Converting between raster layers and vector layers
 
+
+This first map uses isochrones to show walking times to the nearest public school in 10-, 20-, and 30-minute blocks of time. 
+
 [![](thumbnails/cambridge_iso.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_iso.pdf){target="_blank"}
+
+This map uses black and white raster data to illustrate accessibility, displaying a score assigned by the r5r package. 
 
 [![](thumbnails/access_raster_p.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/access_raster_p.pdf){target="_blank"}
 
+This map is a version of the raster map converted back to a vector layer, using colored points to illustrate the same accessibility score. 
+
 [![](thumbnails/cambridge_access_points.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_access_points.pdf){target="_blank"}
+
 
 ## Interactive Map
 
