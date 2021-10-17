@@ -42,11 +42,10 @@ These maps explore the spread of transit in relation to two polygon layers: neig
 These maps demonstrate the following skills: 
 
 * Displaying multiple vector layers on the same map
-* Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
+* Calculating and displaying relationships among point and polygon layers based on distance
 
-
-The first map shows a concentration of transit stops around the city center, the same part of the city where Grant Park is located.
+The first map shows a concentration of transit stops around the city center, the same part of Chicago where Grant Park is located.
 
 [![](thumbnails/chicago2.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago2.pdf){target="_blank"}
 
@@ -54,7 +53,7 @@ This second map illustrates the proportion of transit stops within 1000 meters, 
 
 [![](thumbnails/chicago1.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago1.pdf){target="_blank"}
 
-This third map builds upon this by illustrating that 5 of the city's 6 Enterprise Zones contain a transit stop. This analysis could be useful as the city considers where to invest in more transit development to aid in certain areas' economic growth. 
+This third map builds upon this by illustrating that 5 of the city's 6 Enterprise Zones contain a transit stop. This analysis could be useful as the city considers where to invest in more transit development to aid in certain areas' economic growth.
 
 [![](thumbnails/chicago3.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/chicago3.pdf){target="_blank"}
 
@@ -66,18 +65,18 @@ Through these maps of Cambridge, MA, I learned more about my new surroundings, n
 
 These maps illustrate the accessibility of public schools in Cambridge by walking. 
 
-These maps demonstrates the following skills:
+They demonstrate the following skills:
 
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 * Converting between raster layers and vector layers
 
 
-This first map uses isochrones to show walking times to the nearest public school in 10-, 20-, and 30-minute blocks of time. 
+This first map uses isochrones to show walking times to the nearest public school in 10-, 20-, and 30-minute blocks of time.
 
 [![](thumbnails/cambridge_iso.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/cambridge_iso.pdf){target="_blank"}
 
-This map uses black and white raster data to illustrate accessibility, displaying a score assigned by the r5r package. 
+Using black and white raster data, this map illustrates accessibility by displaying a score assigned by the r5r package.
 
 [![](thumbnails/access_raster_p.jpg)](https://spage17.github.io/vis2128_portfolio/fullsize/access_raster_p.pdf){target="_blank"}
 
@@ -90,7 +89,7 @@ This map is a version of the raster map converted back to a vector layer, using 
 
 This map illustrates the percentage of residents in Suffolk and Middlesex counties who were born outside of the United States, divided by census tracts. Including both counties allows for a comparison of the proportion of foreign-born residents outside the heart of Boston's metropolitan area. 
 
-This interactive map demonstrates the following skills: 
+This map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
